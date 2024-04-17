@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         operativa_cuenta(1);
         System.out.println("Esto es un PUSH (de NetBeans a GitHub)");
-        System.out.println("Esto es un COMMIT (de GitHub a NetBeans)");
+        System.out.println("Esto es un COMMIT desde Github");
     }
 
     private static void operativa_cuenta(float cantidad) {
